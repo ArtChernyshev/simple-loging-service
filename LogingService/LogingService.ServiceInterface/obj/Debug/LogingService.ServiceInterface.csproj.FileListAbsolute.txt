@@ -1,0 +1,16 @@
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\LogingService.ServiceInterface.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\LogingService.ServiceInterface.pdb
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\LogingService.ServiceModel.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\LogingService.ServiceModel.pdb
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.xml
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\obj\Debug\LogingService.ServiceInterface.csprojResolveAssemblyReference.cache
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\obj\Debug\LogingService.ServiceInterface.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceInterface\obj\Debug\LogingService.ServiceInterface.pdb

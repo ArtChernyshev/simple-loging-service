@@ -1,0 +1,5 @@
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceModel\bin\Debug\LogingService.ServiceModel.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceModel\bin\Debug\LogingService.ServiceModel.pdb
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceModel\obj\Debug\LogingService.ServiceModel.dll
+D:\simple-loging-service\simple-loging-service\LogingService\LogingService.ServiceModel\obj\Debug\LogingService.ServiceModel.pdb
