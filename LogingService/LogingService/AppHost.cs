@@ -1,6 +1,8 @@
 ﻿using Funq;
 using ServiceStack;
 using LogingService.ServiceInterface;
+using ServiceStack.Auth;
+using ServiceStack.Caching;
 
 namespace LogingService
 {
@@ -23,9 +25,14 @@ namespace LogingService
 		/// <param name="container"></param>
 		public override void Configure(Container container)
 		{
-			//Config examples
-			//this.AddPlugin(new PostmanFeature());
-			//this.AddPlugin(new CorsFeature());
+			
+			AddPlugin(new AuthFeature(() => new AuthUserSession(),
+				new IAuthProvider[] {new BasicAuthProvider(), new CredentialsAuthProvider()}));
+
+			Plugins.Add(new RegistrationFeature());
+			container.Register<ICacheClient>(new MemoryCacheClient());
+			var userRep = new InMemoryAuthRepository();
+			container.Register<IUserAuthRepository>(userRep);
 		}
 	}
 }
