@@ -87,9 +87,3 @@ D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\ProjNet.xml
 D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\SharpKml.Kmz.xml
 D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\Dapper.pdb
 D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\Dapper.xml
-D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\TileServer.dll
-D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\System.Web.Http.Tracing.dll
-D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\ServerLibrary.dll
-D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\TileServer.pdb
-D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\System.Web.Http.Tracing.xml
-D:\fiji_develop\fiji\MvcEmptyWebApp1\MvcEmptyWebApp1\bin\ServerLibrary.pdb
